@@ -32,10 +32,10 @@ Os usuários devem ser capazes de:
 ---
 
 #### 🖼️ Seção do mapa
-![Página principal](img/screenshot-map.png)
+![Página principal](screenshot-map.jpg)
 
 #### 👨‍💻 Seção de equipe  
-![Seção de equipe](./img/screenshot-team.png)
+![Seção de equipe](./img/screenshot-team.jpg)
 
 ---
 
