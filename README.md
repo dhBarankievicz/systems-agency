@@ -31,11 +31,6 @@ Os usuários devem ser capazes de:
 
 ---
 
-### Capturas de Tela
-
-> 💡 As imagens abaixo são placeholders — substitua pelos prints reais do seu site.  
-> Salve-os na pasta `img/` e mantenha os nomes indicados.
-
 #### 🖼️ Seção do mapa
 ![Página principal](./img/screenshot-team)
 
